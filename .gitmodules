@@ -1,3 +1,6 @@
 [submodule "example1"]
 	path = example1
 	url = https://github.com/git-training-open/example1.git
+[submodule "jabberwocky"]
+	path = jabberwocky
+	url = git@github.com:catalyst-training/jabberwocky.git
