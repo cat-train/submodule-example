@@ -3,4 +3,4 @@
 	url = https://github.com/git-training-open/example1.git
 [submodule "jabberwocky"]
 	path = jabberwocky
-	url = git@github.com:catalyst-training/jabberwocky.git
+	url = https://github.com/catalyst-training/jabberwocky.git
